@@ -3,7 +3,7 @@ pipeline {
     agent any
 
     tools {
-        maven 'Maven-Homebrew'
+        maven 'maven-cicd'
     }
 
     stages {
